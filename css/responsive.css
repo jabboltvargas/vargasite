@@ -246,6 +246,10 @@
   .picont {
     width: 50%;
   }
+  .fighterPic:hover h3, .fighterPic:hover .fighterboxFlex {
+    -webkit-transform: translate3d(0,0px,0);
+    transform: translate3d(0,0px,0);
+}
     
 
 }
